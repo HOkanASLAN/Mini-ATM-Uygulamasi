@@ -1,0 +1,8 @@
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\bin\Debug\ders7 mini atm.exe.config
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\bin\Debug\ders7 mini atm.exe
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\bin\Debug\ders7 mini atm.pdb
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\obj\Debug\ders7 mini atm.csproj.AssemblyReference.cache
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\obj\Debug\ders7 mini atm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\obj\Debug\ders7 mini atm.csproj.CoreCompileInputs.cache
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\obj\Debug\ders7 mini atm.exe
+C:\Users\Asusx\Desktop\c#\ders7 mini atm\ders7 mini atm\obj\Debug\ders7 mini atm.pdb
